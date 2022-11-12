@@ -1,3 +1,3 @@
 lang: "python"
-#web: gunicorn app:index
+#web: gusnicorn app:index
 script: 'index'
